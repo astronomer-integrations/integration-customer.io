@@ -1,4 +1,30 @@
 
+2.4.1 / 2017-04-17
+==================
+
+  * Bump int-tester to 2.x (#27)
+2.4.0 / 2017-03-08
+==================
+
+  * Add support for screen calls
+
+2.3.1 / 2017-03-08
+==================
+
+  * bump package version and tweak build process
+
+2.3.0 / 2017-03-08
+==================
+
+  * package: remove "integration-version"
+
+2.2.0 / 2017-01-31
+==================
+
+  * Standardize integration (linting, Docker configuration, circle.yml, upgrade
+segmentio-integration version, upgrade integration-worker version, etc.)
+
+
 2.0.1 / 2015-09-09
 ==================
 
